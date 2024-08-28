@@ -1,0 +1,2 @@
+estilo = int(input("Qual seu estilo de Ninjutsu? (Fogo = 1), (Raio = 2), (Água = 3): "))
+flordeFenix =
